@@ -133,6 +133,8 @@ legend {
 	color: white;
 	margin-top: 10px;
 	margin-bottom: 10px;
+	text-aling: center;
+	padding-top: 16px;
 }
 
 .input {
@@ -183,6 +185,7 @@ figcaption {
 	width: 200px;
 	color: white;
 	margin-top: 10px;
+	padding-top: 10px;
 }
 
 h4 { 
